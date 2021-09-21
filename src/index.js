@@ -15,7 +15,7 @@ function DenemeTitle() {
                 delectus velit sapiente cupiditate natus r labor!</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero nesciunt cum voluptate non
                 numquam incidunt, similique eum quisquam officiis odit quam dignissimos fugiat,
-                totam obcaecati consequatur eveniet maxime accusantium impedit.</p>
+                totam obcaecati consequatur eveniet maxime accusanti impedit.</p>
             <p>naber la!</p>
         </div>
         
