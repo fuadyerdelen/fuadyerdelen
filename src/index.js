@@ -13,6 +13,9 @@ function DenemeTitle() {
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis doloribus,
                 distinctio officia saepe sequi excepturi. Earum nobis modi omnis. Ipsum molestiae est quasi,
                 delectus velit sapiente cupiditate natus r labor!</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero nesciunt cum voluptate non
+                numquam incidunt, similique eum quisquam officiis odit quam dignissimos fugiat,
+                totam obcaecati consequatur eveniet maxime accusantium impedit.</p>
         </div>
         
     )
