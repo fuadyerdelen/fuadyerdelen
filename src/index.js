@@ -12,7 +12,7 @@ function DenemeTitle() {
             <h2> naber la </h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis doloribus,
                 distinctio officia saepe sequi excepturi. Earum nobis modi omnis. Ipsum molestiae est quasi,
-                delectus velit sapiente cupiditate natus rem labor!</p>
+                delectus velit sapiente cupiditate natus r labor!</p>
         </div>
         
     )
