@@ -1,4 +1,43 @@
-#icon{
-  width: 2rem;
+header {
+    font-family: 'Ubuntu', sans-serif !important;
+    font-size: 13px !important;
+    color: #2b2b2b;
+}
+
+.header-content {
+    padding: 1.90rem 3.75rem 1.90rem 3.75rem;
+
+}
+
+.header-btn {
+    line-height: 1.23 !important;
+    font-size: .81rem !important;
+    font-weight: 400 !important;
+    letter-spacing: 1.5px;
+}
+
+h1{
+    color: #2b2b2b;
+    font-size: 17.6vw !important;
+    font-weight: 700 !important;
+}
+.mainContent{
+    padding: 30px !important;
+}
+.dot{
+    color: #0a53be;
+}
+.mfyImage{
+    border: 1px solid black;
+    width: 250px;
+    height: 350px;
+ }
+.ac{
+    font-size: 1.30rem;
+}
+
+
+.btn {
+    box-shadow: none !important
 }
 
