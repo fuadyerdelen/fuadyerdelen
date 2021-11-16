@@ -17,19 +17,19 @@ function Header() {
                         </div>
                         <div>
                             <button type="button" className="btn header-btn" data-bs-toggle="modal"
-                                    data-bs-target="#exampleModal">MENU
+                                data-bs-target="#exampleModal">MENU
                             </button>
                         </div>
                     </div>
                 </nav>
 
                 <div className="modal fade" id="exampleModal" aria-labelledby="exampleModalLabel"
-                     aria-hidden="true">
+                    aria-hidden="true">
                     <div className="modal-dialog modal-fullscreen">
                         <div className="modal-content">
                             <div className="modal-header">
                                 <h5 className="modal-title" id="exampleModalLabel">M.Fuad Yerdelen</h5>
-                                <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"/>
+                                <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close" />
                             </div>
                             <div className="modal-body d-flex justify-content-end">
                                 <ul className="fs-3">
@@ -71,7 +71,7 @@ function Header() {
     )
 }
 
-ReactDOM.render(<Header/>, document.getElementById('root'));
+ReactDOM.render(<Header />, document.getElementById('root'));
 
 
 
