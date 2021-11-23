@@ -7,6 +7,7 @@ import Header from './header';
 import Main from './main';
 import Hello from './hello';
 import Works from './works';
+import Footer from './footer';
 
 
 
@@ -17,6 +18,7 @@ function App() {
             <Hello />
             <Main />
             <Works />
+            <Footer />
         </div>
     )
 }

@@ -8,8 +8,12 @@ function Header() {
                         <button className="btn header-btn">SEARCH</button>
                     </div>
                     <div>
-                        <button type="button" className="btn header-btn" data-bs-toggle="modal"
-                            data-bs-target="#exampleModal">MENU
+                        <button onClick={
+
+                            function () {
+                                document.body.style.backgroundColor = "black";
+                            }
+                        } type="button" className="btn header-btn">dark mode
                         </button>
                     </div>
                 </div>
@@ -40,10 +44,6 @@ function Header() {
             </div>
 
         </header>
-
-
-
-
     )
 }
 
