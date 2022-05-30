@@ -1,1 +1,1 @@
-https://fuadyerdelen.web.app/
+http://fuadyerdelen.me/
