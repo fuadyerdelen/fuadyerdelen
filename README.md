@@ -1,1 +1,1 @@
-http://fuadyerdelen.me/
+https://fuadyerdelen.github.io
